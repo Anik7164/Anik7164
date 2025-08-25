@@ -50,7 +50,7 @@ A full-stack web application with React frontend and Node.js backend, featuring 
 
 [![Discord](https://img.shields.io/badge/Discord-_sn1pex-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/_sn1pex)
 [![GitHub](https://img.shields.io/badge/GitHub-Anik7164-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anik7164)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anik.amd0@gmail.com)
 
 ---
 
