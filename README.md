@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Anik7164.png" width="120" height="120" style="border-radius:50%;" alt="Profile Avatar">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=✨+Hey+there!+I'm+_sn1pex+✨)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=✨+Hey+there!+I'm+_Anik+✨)
 
 ---
 
