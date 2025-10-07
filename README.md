@@ -64,7 +64,7 @@
   <br>
   <h3 align="center">Harmixia-2.0</h3>
   <p align="center">
-    A robust full-stack web application designed for seamless user interaction and real-time data processing. Built with a modern React frontend and a powerful Node.js backend, it features secure user authentication and a highly responsive UI.
+    A robust full-stack web music app designed for seamless user interaction and real-time data processing with spotify api. Built with a modern React frontend and a powerful Node.js backend, it features secure user authentication and a highly responsive UI.
   </p>
   <div align="center">
     <a href="https://github.com/Anik7164/Harmixia-2.0" target="_blank" rel="noopener noreferrer">
