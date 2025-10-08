@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Anik7164.png" width="140" height="140" style="border-radius:50%; border: 3px solid #6C63FF; box-shadow: 0 0 15px rgba(108, 99, 255, 0.5);" alt="Profile Avatar">
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=32&pause=1000&color=6C63FF&center=true&vCenter=true&width=450&lines=✨+Hey!+It's+Anik+here+✨)
 
 **Full Stack Developer | Machine Learning Enthusiast | Student**
